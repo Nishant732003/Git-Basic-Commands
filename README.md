@@ -70,5 +70,7 @@ otherwise if just want the change sto be moved in working area or staging area w
 
  20. `git remote rename<oldname><newName>`: rename the remote  connection
   Note :The name of remote connection is always used to establish communication between the repository
-
+21. 20. git remote rename<oldname><newName>: rename the remote  connection
+  Note :The name of remote connection is always used to establish communication between the repository
+22.`git pull`
 
