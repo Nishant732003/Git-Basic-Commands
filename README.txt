@@ -19,5 +19,23 @@ working area
 it is going to tell you what are the other files that are going to part of next version.
 This staging area is the place where git knows what changes are to be done fron last version to 
 next version
- How to move workign area file to staging area?
+ 
+
+
+5.'Repository area
+This area actually contains the details of all your previous registerd version
+and the files in this area git alreday manges them and know their version history.
+
+ 6.How to move workign area file to staging area?
  git add filename
+ 7.to remove from stagig area using cached so git do not cached the file
+ "git rm --cached <file>...
+
+ 8.Now you want tomove file from staging area to repository area
+
+ 9.'commit' is a particular version of the project. 
+  It captures the  project 's staged changes and craete version of it.
+   'giut commit'to resister staging area changes to repo
+10.
+'git log'
+list down all th e commits of the repository.If you want to exit out of git log prompt press'q'.
