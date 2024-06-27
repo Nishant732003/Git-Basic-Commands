@@ -84,4 +84,5 @@ of the mentioned remote in your local repo
 - git pull 
 - git push 
 
+24.merege conflicts are a very common scenario
 
