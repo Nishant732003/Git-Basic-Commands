@@ -70,5 +70,7 @@ otherwise if just want the change sto be moved in working area or staging area w
 
  20. `git remote rename<oldname><newName>`: rename the remote  connection
   Note :The name of remote connection is always used to establish communication between the repository
-
+ 21.`git  add <file1> <file2>` :this command will add multiple file changes together in staging area
+ 22.`git add .`: this command will add all the files chnages together in staging area
+ 
 
