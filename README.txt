@@ -39,3 +39,12 @@ and the files in this area git alreday manges them and know their version histor
 10.
 'git log'
 list down all th e commits of the repository.If you want to exit out of git log prompt press'q'.
+
+11.'git restore <file>' it will delete all the things that are in staging area but yet noot commited
+If we did some dirty piece of code and now no more want it .Instaed of deleting every change line by line
+we can restore it.
+
+give last commited version of file
+12.'git restore --staged <file>'-> It removes file from  chnages from staging area to the working area .It will
+keep chnages in working area
+This oinly works if changes are in staging area
