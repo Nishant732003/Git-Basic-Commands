@@ -74,5 +74,7 @@ otherwise if just want the change sto be moved in working area or staging area w
  
  22.`git add .`: this command will add all the files chnages together in staging area
  
-23.
+23`git pull <remote name><branch name>`: downloads latest changes from the branch 
+of the mentioned remote in your local repo
+
 
