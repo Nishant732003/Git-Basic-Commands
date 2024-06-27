@@ -45,6 +45,11 @@ If we did some dirty piece of code and now no more want it .Instaed of deleting 
 we can restore it.
 
 give last commited version of file
+
 12.'git restore --staged <file>'-> It removes file from  chnages from staging area to the working area .It will
 keep chnages in working area
 This oinly works if changes are in staging area
+
+13.Diff between git rm and git restore 
+ans:if you want to move the whole file back to the untracked state .then we do git rm ,
+otherwise if just want the change sto be moved in working area or staging area we do git restore.
