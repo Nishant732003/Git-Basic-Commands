@@ -73,5 +73,5 @@ otherwise if just want the change sto be moved in working area or staging area w
  21.`git  add <file1> <file2>` :this command will add multiple file changes together in staging area
  22.`git add .`: this command will add all the files chnages together in staging area
  
-21.
+23.
 
