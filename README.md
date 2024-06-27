@@ -77,4 +77,10 @@ otherwise if just want the change sto be moved in working area or staging area w
 23`git pull <remote name><branch name>`: downloads latest changes from the branch 
 of the mentioned remote in your local repo
 
+# Recommended Practice 
+- make changes
+- git add <file>
+- git commit
+- git pull 
+- git push 
 
